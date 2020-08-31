@@ -70,8 +70,8 @@ class ItemSelector(BaseEstimator, TransformerMixin):
     pass
 
 #if __name__ == "__main__":
-model = joblib.load('bernoullinb.joblib')
-print('ajhd',model)
+#model = joblib.load('bernoullinb.joblib')
+#print('ajhd',model)
  #   print(model.predict("this is not working @dead"))
 
 def home(request):
